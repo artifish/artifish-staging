@@ -1,0 +1,216 @@
+{
+	"has already been taken": "כבר בשימוש",
+	"an_unexpected_error_occurred": "שגיאה לא צפויה",
+	"auth": {
+		"oauth": {
+			"must_grant_permissions": "יש להתחבר כדי לבצע פעולות"
+		}
+	},
+	"beta_login": {
+		"incorrect_password": "הסיסמא שגויה",
+		"enter_beta": "היכנס לבטא",
+		"enter_beta_password": "הכנס סיסמאת כניסה לבטא"
+	},
+	"common": {
+		"or": "או",
+		"cancel": "ביטול",
+		"date": "תאריך",
+		"email": "אימייל",
+		"name": "שם",
+		"first_name": "שם פרטי",
+		"last_name": "שם משפחה",
+		"city": "עיר",
+		"address": "כתובת",
+		"zip_code": "מיקוד",
+		"phone_number": "טלפון",
+		"login": "התחבר",
+		"sign_up": "הרשם",
+		"next": "הבא",
+		"page_was_not_found": "עמוד לא נמצא",
+		"password": "סיסמא",
+		"save": "שמירה",
+		"first_name_is_required": "יש למלא שם פרטי",
+		"last_name_is_required": "יש למלא שם משפחה",
+		"name_is_required": "יש למלא שם",
+		"a_valid_email_is_required": "יש למלא מייל חוקי",
+		"phone_number_is_required": "יש למלא מספר טלפון",
+		"start": "התחל"
+	},
+	"contact_us": {
+		"get_in_touch": "צור קשר",
+		"get_in_touch_subtext": "אם יש לך שאלה בנוגע למה אנחנו עושים או למה אנחנו עושים זאת",
+		"title": "נושא",
+		"your_message": "ההודעה שלך",
+		"lets_talk": "בואו נדבר",
+		"title_is_required": "יש לכתוב נושא",
+		"message_is_required": "יש לכתוב הודעה"
+	},
+	"home": {
+		"welcome_to_artista": "ברוך הבא ל Artifish",
+		"whats_your_vision?": "מה החזון שלך?",
+		"whats_your_vision_text": "כלי אינטרנטי למעצבי פנים, מוצא את האומנות המתאימה ביותר לחלל אותו אתה מעצב בעזרת אלגוריתם ויזואלי והעדפות אישיות",
+		"take_a_tour": "קח אותי לסיור"
+	},
+	"sign_up": {
+		"confirm_password": "סיסמא לאימות",
+		"first_name_is_required": "יש למלא שם פרטי",
+		"last_name_is_required": "יש למלא שם משפחה",
+		"password_confirmation_does_not_match_password": "סיסמאות לא תואמות",
+		"password_confirmation_is_required": "יש למלא סיסמא לאימות",
+		"password_is_required": "יש למלא סיסמא",
+		"password_should_be_at_least_x_characters": "הסיסמא צריכה לכלול לפחות {{characters}} תווים",
+		"some_of_the_input_fields_are_invalid": "חלק מהשדות אינם חוקיים"
+	},
+	"login": {
+		"email_is_required": "יש למלא מייל",
+		"invalid_credentials": "סיסמא שגויה",
+		"password_is_required": "יש למלא סיסמא",
+		"login_with_facebook": "התחבר באמצעות פייסבוק",
+		"login_with_google": "התחבר באמצעות גוגל"
+	},
+	"verify": {
+		"user_was_verified": "משתמש אומת בהצלחה",
+		"verification_code_is_incorrect": "קוד אימות שגוי"
+	},
+	"navbar": {
+		"contact_us": "צור קשר",
+		"start_tour": "התחל סיור",
+		"home": "בית",
+		"login": "התחבר",
+		"logout": "התנתק",
+		"collections": "פרוייקטים",
+		"user": "משתמש"
+	},
+	"collection": {
+		"name_is_required": "יש למלא שם",
+		"failed_to_delete_collection": "מחיקת פרוייקט נכשלה",
+		"clear_collection_alert": "האם הנך בטוח שאתה מעוניין לנקות את הפרוייקט?",
+		"delete_collection_alert": "האם הנך בטוח שאתה מעוניין למחוק את הפרוייקט {{collection}}?",
+		"collection_was_saved": "הפרוייקט נשמר!",
+		"error_saving_collection": "שגיאה בשמירת פרוייקט",
+		"discard_unsaved_changes": "אזהרה: יש לך שינויים שלא נשמרו. לחץ ביטול כדי לחזור ולשמור שינויים אלה",
+		"create_user_to_continue": "צור משתמש על מנת להמשיך",
+		"login_with_this_info_to_load_collection": "תוכל להתחבר עם פרטים אלו כדי לטעון את העבודה שלך",
+		"loading_filters": "טוען פילטרים",
+		"my_project": "הפרוייקט שלי (בחר שם)",
+		"proceed_to_purchase": "המשך לרכישה",
+		"you_have_selected_x_items": "בחרת {{items_count}} פריטים",
+		"choose_a_password": "בחר סיסמא",
+		"starting_at": "החל מ",
+		"project_board": "עריכת פרוייקט",
+		"project_board_hint": "כאן אתה רואה את הפריטים שבחרת לצד תמונת החדר",
+		"explore_artwork": "מצא פריטים",
+		"explore_artwork_hint": "כאן את מוצא ובוחר אמנות לפרוייקט שלך",
+		"edit_name": "ערוך שם",
+		"upload_space_image": "העלאת תמונה של החלל",
+		"save_collection": "שמור פרוייקט",
+		"reset_project": "נקה פרוייקט",
+		"filter_by": "סנן לפי",
+		"more_details": "פרטים נוספים",
+		"type": "סוג",
+		"all": "הכל",
+		"filter_by_artwork_type": "סנן לפי סוג אמנות",
+		"no_results": "אין תוצאות",
+		"try_searching_again": "נסה לחפש שוב או להסיר חלק מהפילטרים",
+		"see_pictures_on_wall": "סדר תמונות על הקיר",
+		"upload_a_photo_of_your_room": "העלה תמונה של החדר שלך",
+		"choose_from_collection": "בחר מאוסף קיים",
+		"workspace_collection_library": "תמונות חדרים מוכנות מראש",
+		"workspace_collection_library_help_text": "בחר חדר או צבע קיר כדי לדמות את החדר שאתה עובד עליו",
+		"got_confused": "נראה שהתבלבלת!",
+		"drag_image_warning_text": "לחץ על התמונה כדי לבחור אותה, לאחר מכן לחץ על ",
+		"drag_image_warning_text_after_icon": " בסרגל הכלים כדי לגרור אותה",
+		"you_must_set_workspace_picture_first": "ראשית עליך לבחור את תמונת החלל",
+		"download_workspace_image": "הורד תמונה של החלל"
+	},
+	"collections": {
+		"my_collections": "הפרוייקטים שלי",
+		"there_are_no_saved_collections": "לא קיימים פרוייקטים שמורים",
+		"add_collection": "צור פרוייקט"
+	},
+	"core": {
+		"eager_to_start?": "משתוקק להתחיל?",
+		"you_can_skip_the_tour_message": "אתה יכול לדלג על הסיור על ידי לחיצה על הכפתור 'דלג'. אנחנו לא נעלב!"
+	},
+	"purchase": {
+		"make_a_payment": "לתשלום",
+		"city_is_required": "יש למלא עיר",
+		"address_is_required": "יש למלא כתובת",
+		"zip_code_is_required": "יש למלא מיקוד",
+		"material": "סוג חומר",
+		"size": "גודל",
+		"total_amount": "עלות כוללת",
+		"price": "מחיר",
+		"failed_to_remove_item": "הסרת הפריט נכשלה"
+	},
+	"paypal_callback": {
+		"error_has_occured_in_paypal_payment": "שגיאה בתשלום",
+		"processing": "בתהליך"
+	},
+	"payment_confirmation": {
+		"thank_you_for_your_payment": "תודה על הרכישה",
+		"payment_amount": "גודל תשלום",
+		"payment_unique_id": "מזהה תשלום",
+		"name": "שם",
+		"address": "כתובת",
+		"phone_number": "מספר טלפון",
+		"items_ordered": "פריטים שהוזמנו"
+	},
+	"tags": {
+		"pop_art": "פופ ארט",
+		"kids": "ילדים",
+		"commercials": "מסחרי",
+		"music": "מוזיקה",
+		"animals": "חיות",
+		"nature": "טבע",
+		"urban": "אורבני",
+		"movies_and_tv": "טלויזיה",
+		"humanity": "אנושות",
+		"abstract": "אסטרקטי",
+		"water": "מים",
+		"flowers": "פרחים",
+		"childhood": "ילדות"
+	},
+	"materials": {
+		"all": "הכל",
+		"canvas": "קנבס",
+		"acrylic_glass": "זכוכית אקרילית (פרספקס)",
+		"aluminum": "אלומיניום"
+	},
+	"intro": {
+		"next": "הבא &larr;",
+		"back": "&rarr; הקודם",
+		"skip": "דלג",
+		"done": "סיום",
+		"step1": "1. מעלים תמונה של החדר <i class='fa fa-upload'></i> אותו אתם מעצבים או בוחרים תמונה מתוך הספרייה <i class='fa fa-picture-o'></i>",
+		"step2": "2. בוחרים את הפילטרים שמתאים לחזון העיצוב שלכם",
+		"step3": "3. בוחרים את עבודות האומנות לפי הצבע המועדף",
+		"step4": "4. מסמנים את עבודות האומנות אותם אוהבים מתוך המאגר",
+		"step5": "5. רואים את עבודות האומנות שבחרתם מופיעות בלוח \"עריכת פרויקט\"",
+		"step6": "6. התחילו את תהליך העיצוב עם עבודות האומנות שבחרתם",
+		"step7": "7. תתנסו בכלי הויזואליזציה, תראו את עבודות האמנות בחלל שלכם ובחרו את גודל הקנבס שאתם אוהבים",
+		"step8": "8. חוזרים לעמוד הבית, מה שישמור גם את עבודתם לתיק העבודות שלכם",
+		"step9": "9. המשיכו לרכישה שתהפוך את עיצוב האומנות שיצרתם למציאות",
+		"step10": "10. בוא נתחיל!"
+	},
+	"workspace_presets": {
+		"bathroom": "חדר אמבטיה",
+		"dress_room": "חדר הלבשה",
+		"kitchen": "מטבח",
+		"living_room": "סלון",
+		"lounge": "טרקלין",
+		"seating_area": "איזור ישיבה",
+		"working_room": "חדר עבודה",
+		"black_wall": "קיר שחור",
+		"blue_wall": "קיר כחול",
+		"gray_wall": "קיר אפור",
+		"green_wall": "קיר ירוק",
+		"lilac_wall": "קיר לילך",
+		"orange_wall": "קיר כתום",
+		"pink_wall": "קיר וורוד",
+		"purple_wall": "קיר סגול",
+		"red_wall": "קיר אדום",
+		"white_wall": "קיר לבן",
+		"yellow_wall": "קיר צהוב"
+	}
+}
